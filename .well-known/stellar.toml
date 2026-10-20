@@ -5,7 +5,7 @@
 
 VERSION = "2.0.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
-SIGNING_KEY = "GAHCZ42GZTE644EXSBLBOBFMRGOO56SDLZ5XBKDWWSMZUQOHF3TGY7KW"
+SIGNING_KEY = "GAJW7JBLEZ6VXOCS64J7C3EAQT4V32GEGOB3ZMSIBJL2HFUVDHTPPJAM"
 
 [DOCUMENTATION]
 ORG_NAME = "CryptoG Group"
@@ -13,7 +13,7 @@ ORG_DBA = "CGX Token"
 ORG_URL = "https://www.cryptogdex.io"
 ORG_LOGO = "https://gateway.pinata.cloud/ipfs/bafkreiekzt4qpnprtiuts5j7gzn2xmgqp4ke2z5jib7agnzwbqm2vk7syq"
 ORG_OFFICIAL_EMAIL = "info@cryptogdex.io"
-ORG_DESCRIPTION = """The CryptoG Group (the "Organization") is an anonymous, privately owned, non-profit organization of volunteer humanitarians and experts from various fields. Based in our anonymous community worldwide, we strive to break conventional financial ground by bridging liberated governance to give back power to the people through the issuance of the CGX token, and the upcoming CryptoG Bank - a fully decentralized, no-KYC banking layer built on Stellar's Soroban smart contracts."""
+ORG_DESCRIPTION = """The CryptoG Group is an anonymous non-profit collective of volunteer experts advancing global wealth distribution through decentralized governance. Its GDEX token powers the CryptoG perpetual DEX (launching 25 October at 20:00 UTC) and CryptoG Bank—a fully decentralized, no-KYC banking infrastructure built on Stellar’s high-performance Soroban smart contracts for secure, scalable, and censorship-resistant financial access."""
 ORG_PHYSICAL_ADDRESS = "Decentralized"
 ORG_KEYBASE = "cryptoggroup"
 
@@ -22,13 +22,13 @@ name = "CryptoG Group"
 email = "info@cryptogdex.io"
 
 [[CURRENCIES]]
-code = "CGX"
+code = "GDEX"
 name = "CryptoGDEX"
-issuer = "GAHCZ42GZTE644EXSBLBOBFMRGOO56SDLZ5XBKDWWSMZUQOHF3TGY7KW"
+issuer = "GAJW7JBLEZ6VXOCS64J7C3EAQT4V32GEGOB3ZMSIBJL2HFUVDHTPPJAM"
 display_decimals = 7
 is_asset_anchored = false
 anchor_asset_type = "crypto"
 status = "live"
-desc = """The CryptoG Group (the "Organization") is an anonymous, privately owned, non-profit organization of volunteer humanitarians and experts from various fields. Based in our anonymous community worldwide, we strive to break conventional financial ground by bridging liberated governance to give back power to the people through the issuance of the CGX token, and the upcoming CryptoG Bank - a fully decentralized, no-KYC banking layer built on Stellar's Soroban smart contracts."""
+desc = """The GDEX token is the native utility asset of the CryptoG ecosystem, powering the CryptoG perpetual DEX (launching 25 October at 20:00 UTC) and CryptoG Bank—a fully decentralized, no-KYC banking infrastructure built on Stellar’s high-performance Soroban smart contracts for secure, scalable, and censorship-resistant financial access."""
 image = "https://gateway.pinata.cloud/ipfs/bafkreiekzt4qpnprtiuts5j7gzn2xmgqp4ke2z5jib7agnzwbqm2vk7syq"
-conditions = "The CGX token will serve as an essential mechanism for significantly enhancing liquidity across various pools, directly supporting our Bitcoin liquidation initiative. With a total supply of 1,100,000, it is strategically engineered to generate robust and continuous buying pressure, driving substantial growth in its market capitalization over time. This strategic approach not only broadens the appeal to a diverse array of token holders but also enhances market stability, fostering a resilient trading environment. In addition to its liquidity function, the token will empower users to engage in active trading and participate in staking opportunities that offer compelling rewards. Moreover, it will provide access to a comprehensive range of financial services within our innovative ecosystem. This includes a state-of-the-art decentralized exchange, grand launching in Q1 2026, enabling users to trade a diverse selection of digital assets securely and without the need for KYC verification. Furthermore, our advanced decentralized cryptocurrency banking platform, specifically designed to operate without interest, aims to meet the diverse financial needs of our community."
+conditions = "The GDEX token will serve as an essential mechanism for significantly enhancing liquidity across various pools, directly supporting our Bitcoin liquidation initiative. With a total supply of 1,100,000,000, it is strategically engineered to generate robust and continuous buying pressure, driving substantial growth in its market capitalization over time. This strategic approach not only broadens the appeal to a diverse array of token holders but also enhances market stability, fostering a resilient trading environment. In addition to its liquidity function, the token will empower users to engage in active trading and participate in staking opportunities that offer compelling rewards. Moreover, it will provide access to a comprehensive range of financial services within our innovative ecosystem. This includes a state-of-the-art decentralized exchange, grand launching on October 25 at 8pm UTC, enabling users to trade a diverse selection of digital assets securely and without the need for KYC verification. Furthermore, our advanced decentralized cryptocurrency banking platform, specifically designed to operate without interest, aims to meet the diverse financial needs of our community."
